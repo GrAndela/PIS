@@ -11,6 +11,7 @@ namespace Vjezba_1
         static void Main(string[] args)
         {
             Console.WriteLine("Novo"); //KOM
+            //Heeeey how you doin?
         }
     }
 }
